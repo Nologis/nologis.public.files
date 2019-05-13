@@ -21,7 +21,7 @@ labels:
 
   - name: "Type: Bug"
     color: CC0000
-    description: An issue with the system bug 🐛
+    description: An issue with the system bug
 
   - name: "Type: Enhancement"
     color: 83b8e8
